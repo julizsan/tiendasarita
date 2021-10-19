@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'tienda_sarita',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'bNaSiooitdiGUeCHjhTjy8o2bsp9RD8Do0mnEGwX4N7zJFPmZgZzJyqDN9oyPsSX',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-10-20',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'jPNk6DivdOzLqUad1MNmPfBCHV1qcYSfpef4nFrPfiRcON0yC3fJW359LnEVbrsJ',
+    'cookie_iv' => 'RmM40NVvHowhN9OXOXcamhKR73YLdh9U',
+    'new_cookie_key' => 'def00000a475723fc1ecc13f7e80d619dd7222323e6b51aac36142de16c5aa2d23b92cf6269052b7a4fe8c81fcdce6a5ec537d568c5b9a94f2617f0ff261d1ec492fb546',
+  ),
+);
